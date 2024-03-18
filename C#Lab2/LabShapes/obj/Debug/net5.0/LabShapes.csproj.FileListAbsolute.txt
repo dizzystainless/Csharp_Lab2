@@ -1,0 +1,22 @@
+C:\Users\cecil\Downloads\Lab2-START (1)\Lab2ShapesApp\LabShapes\bin\Debug\net5.0\LabShapes.exe
+C:\Users\cecil\Downloads\Lab2-START (1)\Lab2ShapesApp\LabShapes\bin\Debug\net5.0\LabShapes.dll
+C:\Users\cecil\Downloads\Lab2-START (1)\Lab2ShapesApp\LabShapes\bin\Debug\net5.0\Shapes.dll
+C:\Visual studio\.NET-utvecklare ITHS\Inlämningar\Lab2\Lab2\LabShapes\bin\Debug\net5.0\LabShapes.exe
+C:\Visual studio\.NET-utvecklare ITHS\Inlämningar\Lab2\Lab2\LabShapes\bin\Debug\net5.0\LabShapes.deps.json
+C:\Visual studio\.NET-utvecklare ITHS\Inlämningar\Lab2\Lab2\LabShapes\bin\Debug\net5.0\LabShapes.runtimeconfig.json
+C:\Visual studio\.NET-utvecklare ITHS\Inlämningar\Lab2\Lab2\LabShapes\bin\Debug\net5.0\LabShapes.runtimeconfig.dev.json
+C:\Visual studio\.NET-utvecklare ITHS\Inlämningar\Lab2\Lab2\LabShapes\bin\Debug\net5.0\LabShapes.dll
+C:\Visual studio\.NET-utvecklare ITHS\Inlämningar\Lab2\Lab2\LabShapes\bin\Debug\net5.0\ref\LabShapes.dll
+C:\Visual studio\.NET-utvecklare ITHS\Inlämningar\Lab2\Lab2\LabShapes\bin\Debug\net5.0\LabShapes.pdb
+C:\Visual studio\.NET-utvecklare ITHS\Inlämningar\Lab2\Lab2\LabShapes\bin\Debug\net5.0\Shapes.dll
+C:\Visual studio\.NET-utvecklare ITHS\Inlämningar\Lab2\Lab2\LabShapes\bin\Debug\net5.0\Shapes.pdb
+C:\Visual studio\.NET-utvecklare ITHS\Inlämningar\Lab2\Lab2\LabShapes\obj\Debug\net5.0\LabShapes.csprojAssemblyReference.cache
+C:\Visual studio\.NET-utvecklare ITHS\Inlämningar\Lab2\Lab2\LabShapes\obj\Debug\net5.0\LabShapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual studio\.NET-utvecklare ITHS\Inlämningar\Lab2\Lab2\LabShapes\obj\Debug\net5.0\LabShapes.AssemblyInfoInputs.cache
+C:\Visual studio\.NET-utvecklare ITHS\Inlämningar\Lab2\Lab2\LabShapes\obj\Debug\net5.0\LabShapes.AssemblyInfo.cs
+C:\Visual studio\.NET-utvecklare ITHS\Inlämningar\Lab2\Lab2\LabShapes\obj\Debug\net5.0\LabShapes.csproj.CoreCompileInputs.cache
+C:\Visual studio\.NET-utvecklare ITHS\Inlämningar\Lab2\Lab2\LabShapes\obj\Debug\net5.0\LabShapes.csproj.CopyComplete
+C:\Visual studio\.NET-utvecklare ITHS\Inlämningar\Lab2\Lab2\LabShapes\obj\Debug\net5.0\LabShapes.dll
+C:\Visual studio\.NET-utvecklare ITHS\Inlämningar\Lab2\Lab2\LabShapes\obj\Debug\net5.0\ref\LabShapes.dll
+C:\Visual studio\.NET-utvecklare ITHS\Inlämningar\Lab2\Lab2\LabShapes\obj\Debug\net5.0\LabShapes.pdb
+C:\Visual studio\.NET-utvecklare ITHS\Inlämningar\Lab2\Lab2\LabShapes\obj\Debug\net5.0\LabShapes.genruntimeconfig.cache

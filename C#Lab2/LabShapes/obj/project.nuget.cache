@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "G6IsXolRxy+OLJAJ2+dOLI0cL1RzS9ivTnn7AnzPelzdBqSjfpAdbnBWfkyAseUI9IEQDMSgyQTDXEtqqM2Bjw==",
+  "success": true,
+  "projectFilePath": "E:\\PiNkY\\Plugg\\.NET-utvecklare\\Inlämningar\\C#Lab2\\LabShapes\\LabShapes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cecil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.keylinx.se/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
